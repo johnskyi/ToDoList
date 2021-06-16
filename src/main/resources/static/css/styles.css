@@ -1,0 +1,14 @@
+* {
+    font-family: Arial;
+}
+
+#task-form {
+    display: none;
+}
+i {
+    cursor: pointer;
+}
+ li {
+    text-decoration: none;
+}
+
